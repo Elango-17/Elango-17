@@ -35,8 +35,13 @@ skills and experience to positively contribute to the company.</p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/elangovan-r-279517260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elangovan-r-279517260" height="30" width="40" /></a>
+<a href="https://twitter.com/@elango_17_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@elango_17_" height="30" width="40" /></a>
 <a href="https://instagram.com/__.elango" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__.elango" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@dummybeatz17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@dummybeatz17" height="30" width="40" /></a>
+</p>
+
+<h3 align="center">Coding:</h3>
+<p align="center">
 <a href="https://www.leetcode.com/elango_17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="elango_17" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/elango17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="elango17" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/er2567" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="er2567" height="30" width="40" /></a>
