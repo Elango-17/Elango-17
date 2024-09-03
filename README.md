@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! This is Elango!!</h2>
+<h1 align="center">Hi 👋! This is Elango!!</h1>
 <h3 align="center">About Me👇🏼</h3>
 <p>A passionate frontend developer aspiring to gain a full-time position in a reputed company. Gained extensive experience in 
 front-end development, user interface design, and responsive web design through internships. A highly motivated and 
@@ -43,15 +43,6 @@ skills and experience to positively contribute to the company.</p>
 </div>
 </p>
 
-###
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/elangovan-r-279517260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elangovan-r-279517260" height="30" width="40" /></a>
-<a href="https://twitter.com/@elango_17_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@elango_17_" height="30" width="40" /></a>
-<a href="https://instagram.com/__.elango" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__.elango" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@dummybeatz17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@dummybeatz17" height="30" width="40" /></a>
-</p>
 
 ###
 
@@ -69,5 +60,16 @@ skills and experience to positively contribute to the company.</p>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Elango-17&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
+
+###
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://linkedin.com/in/elangovan-r-279517260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elangovan-r-279517260" height="30" width="40" /></a>
+<a href="https://twitter.com/@elango_17_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@elango_17_" height="30" width="40" /></a>
+<a href="https://instagram.com/__.elango" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__.elango" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@dummybeatz17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@dummybeatz17" height="30" width="40" /></a>
+</p>
 
 ###
