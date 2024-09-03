@@ -1,5 +1,9 @@
 <h2 align="left">Hi 👋! This is Elango!!</h2>
-<h3 align="center">A passionate frontend developer!!</h3>
+<h3 align="center">About Me👇🏼</h3>
+<p>A passionate frontend developer aspiring to gain a full-time position in a reputed company. Gained extensive experience in 
+front-end development, user interface design, and responsive web design through internships. A highly motivated and 
+hardworking individual skilled in HTML, CSS, JavaScript, React, Python, MySQL. Seeking a position to utilize the gained 
+skills and experience to positively contribute to the company.</p>
 
 ###
 
