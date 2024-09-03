@@ -1,4 +1,5 @@
 <h2 align="left">Hi 👋! This is Elango!!</h2>
+<h3 align="center">A passionate frontend developer!!</h3>
 
 ###
 
@@ -27,13 +28,13 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/elangovan-r-279517260/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/er2567" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
-  </a>
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/elangovan-r-279517260/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/elangovan-r-279517260/" height="30" width="40" /></a>
+<a href="https://instagram.com/__.elango" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__.elango" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@dummybeatz17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@dummybeatz17" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/elango_17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="elango_17" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/elango17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="elango17" height="30" width="40" /></a>
+</p>
 
 ###
