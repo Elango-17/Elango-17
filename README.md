@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋!I'm Elango!!</h1>
+<h1 align="center">Hi 👋! I'm Elango!!</h1>
 <h3 align="center">About Me👇🏼</h3>
 <p>A passionate frontend developer aspiring to gain a full-time position in a reputed company. Gained extensive experience in 
 front-end development, user interface design, and responsive web design through internships. A highly motivated and 
