@@ -2,7 +2,7 @@
 <h3 align="center">About Me👇🏼</h3>
 <p>A passionate MERN developer aspiring to gain a full-time position in a reputed company. Gained extensive experience in 
 front-end development, user interface design, and responsive web design through internships. A highly motivated and 
-hardworking individual skilled in HTML, CSS, JavaScript, React, Python, MySQL. Seeking a position to utilize the gained 
+hardworking individual skilled in HTML, CSS, JavaScript, React,Node.js, Express.js, Python,MongoDB, MySQL. Seeking a position to utilize the gained 
 skills and experience to positively contribute to the company.</p>
 
 ###
